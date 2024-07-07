@@ -13,7 +13,7 @@ In any case I made a good deal for this fixie, given the state of the frame and 
 {{< swatches "#783E2F" "#308490" "#e5ecea" >}}
 </div>
 <div style="width: 25%; text-align: center;">
-{{< figure src="images/color-palette.png" alt="Blue, brown, white colour palette" caption="<small>Blue, brown, white colour palette ([Color Palette #2638 on colorpalettes.net](https://colorpalettes.net/color-palette-2638/))</small>" >}}
+{{< figure src="https://colorpalettes.net/wp-content/uploads/2016/02/color-palette-2638.png" alt="Blue, brown, white colour palette" caption="<small>Blue, brown, white colour palette ([Color Palette #2638 on colorpalettes.net](https://colorpalettes.net/color-palette-2638/))</small>" >}}
 </div>
 </div>
 
